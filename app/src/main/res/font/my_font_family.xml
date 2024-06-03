@@ -1,0 +1,5 @@
+<font-family xmlns:app="http://schemas.android.com/apk/res-auto">
+    <font app:fontStyle="normal" app:fontWeight="400" app:font="@font/poppins_regular"/>
+    <font app:fontStyle="italic" app:fontWeight="400" app:font="@font/poppins_italic"/>
+    <!-- Agrega más variantes según sea necesario -->
+</font-family>
